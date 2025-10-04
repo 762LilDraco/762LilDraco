@@ -8,7 +8,7 @@ My name is Draco also known as KD. I am a very dedicated game developer, very pa
 
 * 🌍  I'm based in Columbus, Ohio
 * 🖥️  See my [portfolio](Comingsoon)
-* ✉️  You can contact me at [anyarsencarta@gmail.com](mailto:Comingsoon)
+* ✉️  You can contact me at [coming soon](mailto:Comingsoon)
 * 🧠  I'm a Leanring Programmer & Game Developer
 * 🤝  I'm open to collaborating on Projects and open to new opportunities
 
