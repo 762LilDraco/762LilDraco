@@ -1,4 +1,5 @@
-![Alt text](assets/gifs/term.gif)
+
+<img src="assets/gifs/term.gif" width="100%"/>
 
 
 ### Skills
