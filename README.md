@@ -1,16 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Welcome, to my profile!
-=====================================================================================================================================
+![Alt text](assets/gifs/term.gif)
 
-Learning Programmer & Game Developer
---------------------
-
-My name is Draco also known as KD. I am a very dedicated game developer, very passionate about coding and software development. I started coding in Visual Basic before delving into HTML5, CSS3, Tailwind CSS, JavaScript, TypeScript, React, Next.js, Ruby, and Ruby on Rails.
-
-* 🌍  I'm based in Columbus, Ohio
-* 🖥️  See my [portfolio](Comingsoon)
-* ✉️  You can contact me at [coming soon](mailto:Comingsoon)
-* 🧠  I'm a Leanring Programmer & Game Developer
-* 🤝  I'm open to collaborating on Projects and open to new opportunities
 
 ### Skills
 
